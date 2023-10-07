@@ -14,16 +14,24 @@ public class ModItemGroups {
     public static final ItemGroup RUBY_GROUP = Registry.register(Registries.ITEM_GROUP, new Identifier(TutorialMod.MOD_ID, "ruby"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.cthulhu"))
                     .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
+                        //Mineral Items
                         entries.add(ModItems.RAW_RUBY);
                         entries.add(ModItems.RUBY);
 
+                        //Foods
+                        entries.add(ModItems.TOMATO);
+
+                        //Misc Tools
                         entries.add(ModItems.METAL_DETECTOR);
 
+                        //Misc Blocks
                         entries.add(ModBlocks.SOUND_BLOCK);
 
+                        //Mineral Blocks
                         entries.add(ModBlocks.RAW_RUBY_BLOCK);
                         entries.add(ModBlocks.RUBY_BLOCK);
 
+                        //Ore Blocks
                         entries.add(ModBlocks.RUBY_ORE);
                         entries.add(ModBlocks.DEEPSLATE_RUBY_ORE);
                         entries.add(ModBlocks.NETHER_RUBY_ORE);
