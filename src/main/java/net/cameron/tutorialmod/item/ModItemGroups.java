@@ -17,6 +17,7 @@ public class ModItemGroups {
                         //Mineral Items
                         entries.add(ModItems.RAW_RUBY);
                         entries.add(ModItems.RUBY);
+                        entries.add(ModFuelItems.COAL_CHUNK);
 
                         //Foods
                         entries.add(ModItems.TOMATO);
