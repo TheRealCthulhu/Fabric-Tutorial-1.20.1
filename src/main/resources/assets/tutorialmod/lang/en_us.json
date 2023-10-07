@@ -7,7 +7,7 @@
 
   "item.tutorialmod.metal_detector": "Metal Detector",
 
-  "item.tutorialmod.sound_block": "Sound Block",
+  "block.tutorialmod.sound_block": "Sound Block",
 
   "block.tutorialmod.ruby_block": "Block of Ruby",
   "block.tutorialmod.raw_ruby_block": "Block of Raw Ruby",
@@ -16,6 +16,8 @@
   "block.tutorialmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
   "block.tutorialmod.nether_ruby_ore": "Nether Ruby Ore",
   "block.tutorialmod.end_stone_ruby_ore": "End Ruby Ore",
+
+  "tooltip.tutorialmod.metal_detector.tooltip": "Detects metals vertically where used",
 
   "itemgroup.cthulhu": "Cthulhu's Modding Adventure"
 }
