@@ -1,5 +1,6 @@
 package net.cameron.tutorialmod;
 
+import net.cameron.tutorialmod.block.ModBlocks;
 import net.cameron.tutorialmod.item.ModItemGroups;
 import net.cameron.tutorialmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -13,6 +14,8 @@ public class TutorialMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
