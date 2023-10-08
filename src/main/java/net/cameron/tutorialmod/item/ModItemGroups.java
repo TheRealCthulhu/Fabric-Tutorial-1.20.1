@@ -24,6 +24,7 @@ public class ModItemGroups {
 
                         //Misc Tools
                         entries.add(ModItems.METAL_DETECTOR);
+                        entries.add(ModItems.RUBY_STAFF);
 
                         //Misc Blocks
                         entries.add(ModBlocks.SOUND_BLOCK);
