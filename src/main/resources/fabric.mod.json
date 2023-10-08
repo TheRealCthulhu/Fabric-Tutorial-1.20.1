@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "tutorialmod",
+	"id": "cthulhumod",
 	"version": "${version}",
 	"name": "Tutorial Mod",
 	"description": "This is a tutorial mod from Kaupenjoe's tutorials",
@@ -12,21 +12,21 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT License",
-	"icon": "assets/tutorialmod/icon.png",
+	"icon": "assets/cthulhumod/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.cameron.tutorialmod.TutorialMod"
+			"net.cameron.cthulhumod.CthulhuMod"
 		],
 		"client": [
-			"net.cameron.tutorialmod.TutorialModClient"
+			"net.cameron.cthulhumod.CthulhuModClient"
 		],
 		"fabric-datagen": [
-			"net.cameron.tutorialmod.TutorialModDataGenerator"
+			"net.cameron.cthulhumod.CthulhuModDataGenerator"
 		]
 	},
 	"mixins": [
-		"tutorialmod.mixins.json"
+		"cthulhumod.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.14.22",

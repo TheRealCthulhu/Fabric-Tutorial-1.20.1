@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "cthulhumod:block/ruby_pressure_plate"
+    },
+    "powered=true": {
+      "model": "cthulhumod:block/ruby_pressure_plate_down"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "cthulhumod:block/ruby_block",
+    "side": "cthulhumod:block/ruby_block",
+    "top": "cthulhumod:block/ruby_block"
+  }
+}

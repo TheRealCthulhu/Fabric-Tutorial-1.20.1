@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "cthulhumod:block/ruby_block",
+    "side": "cthulhumod:block/ruby_block",
+    "top": "cthulhumod:block/ruby_block"
+  }
+}

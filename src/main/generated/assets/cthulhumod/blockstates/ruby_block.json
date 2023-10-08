@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cthulhumod:block/ruby_block"
+    }
+  }
+}

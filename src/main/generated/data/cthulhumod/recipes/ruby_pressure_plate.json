@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "cthulhumod:ruby"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "cthulhumod:ruby_pressure_plate"
+  },
+  "show_notification": true
+}

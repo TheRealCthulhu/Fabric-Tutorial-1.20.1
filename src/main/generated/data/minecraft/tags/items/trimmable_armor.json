@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "tutorialmod:ruby_helmet",
-    "tutorialmod:ruby_chestplate",
-    "tutorialmod:ruby_leggings",
-    "tutorialmod:ruby_boots"
+    "cthulhumod:ruby_helmet",
+    "cthulhumod:ruby_chestplate",
+    "cthulhumod:ruby_leggings",
+    "cthulhumod:ruby_boots"
   ]
 }

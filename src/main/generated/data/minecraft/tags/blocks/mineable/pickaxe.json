@@ -1,11 +1,11 @@
 {
   "replace": false,
   "values": [
-    "tutorialmod:raw_ruby_block",
-    "tutorialmod:ruby_block",
-    "tutorialmod:ruby_ore",
-    "tutorialmod:deepslate_ruby_ore",
-    "tutorialmod:nether_ruby_ore",
-    "tutorialmod:end_stone_ruby_ore"
+    "cthulhumod:raw_ruby_block",
+    "cthulhumod:ruby_block",
+    "cthulhumod:ruby_ore",
+    "cthulhumod:deepslate_ruby_ore",
+    "cthulhumod:nether_ruby_ore",
+    "cthulhumod:end_stone_ruby_ore"
   ]
 }

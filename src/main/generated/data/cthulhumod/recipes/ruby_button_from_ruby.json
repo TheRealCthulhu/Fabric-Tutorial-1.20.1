@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "ruby",
+  "ingredients": [
+    {
+      "item": "cthulhumod:ruby"
+    }
+  ],
+  "result": {
+    "item": "cthulhumod:ruby_button"
+  }
+}

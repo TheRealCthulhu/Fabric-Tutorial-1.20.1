@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "tutorialmod:ruby_ore",
-    "tutorialmod:deepslate_ruby_ore",
-    "tutorialmod:ruby_block"
+    "cthulhumod:ruby_ore",
+    "cthulhumod:deepslate_ruby_ore",
+    "cthulhumod:ruby_block"
   ]
 }

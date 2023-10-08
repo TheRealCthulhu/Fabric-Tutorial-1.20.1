@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cthulhumod:ruby_ore",
+    "cthulhumod:deepslate_ruby_ore",
+    "cthulhumod:nether_ruby_ore",
+    "cthulhumod:end_stone_ruby_ore"
+  ]
+}

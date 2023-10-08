@@ -1,0 +1,47 @@
+{
+  "item.cthulhumod.ruby": "Ruby",
+  "item.cthulhumod.raw_ruby": "Raw Ruby",
+  "item.cthulhumod.coal_chunk": "Coal Chunk",
+
+  "item.cthulhumod.tomato": "Tomato",
+
+  "item.cthulhumod.metal_detector": "Metal Detector",
+  "item.cthulhumod.ruby_staff": "Ruby Staff",
+
+  "item.cthulhumod.ruby_shovel": "Ruby Shovel",
+  "item.cthulhumod.ruby_sword": "Ruby Sword",
+  "item.cthulhumod.ruby_hoe": "Ruby Hoe",
+  "item.cthulhumod.ruby_axe": "Ruby Axe",
+  "item.cthulhumod.ruby_pickaxe": "Ruby Pickaxe",
+
+
+
+  "item.cthulhumod.ruby_helmet": "Ruby Helmet",
+  "item.cthulhumod.ruby_chestplate": "Ruby Chestplate",
+  "item.cthulhumod.ruby_leggings": "Ruby Leggings",
+  "item.cthulhumod.ruby_boots": "Ruby Boots",
+
+  "block.cthulhumod.sound_block": "Sound Block",
+
+  "block.cthulhumod.ruby_door": "Ruby Door",
+  "block.cthulhumod.ruby_trapdoor": "Ruby Trapdoor",
+  "block.cthulhumod.ruby_stairs": "Ruby Stairs",
+  "block.cthulhumod.ruby_slab": "Ruby Slab",
+  "block.cthulhumod.ruby_wall": "Ruby Wall",
+  "block.cthulhumod.ruby_button": "Ruby Button",
+  "block.cthulhumod.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.cthulhumod.ruby_fence": "Ruby Fence",
+  "block.cthulhumod.ruby_fence_gate": "Ruby Fence Gate",
+
+  "block.cthulhumod.ruby_block": "Block of Ruby",
+  "block.cthulhumod.raw_ruby_block": "Block of Raw Ruby",
+
+  "block.cthulhumod.ruby_ore": "Ruby Ore",
+  "block.cthulhumod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.cthulhumod.nether_ruby_ore": "Nether Ruby Ore",
+  "block.cthulhumod.end_stone_ruby_ore": "End Ruby Ore",
+
+  "tooltip.cthulhumod.metal_detector.tooltip": "Detects metals vertically where used",
+
+  "itemgroup.cthulhu": "Cthulhu's Modding Adventure"
+}
