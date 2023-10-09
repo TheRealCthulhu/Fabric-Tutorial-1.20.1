@@ -1,6 +1,7 @@
 package net.cameron.cthulhumod.datagen;
 
 import net.cameron.cthulhumod.block.ModBlocks;
+import net.cameron.cthulhumod.block.custom.TomatoCropBlock;
 import net.cameron.cthulhumod.item.ModFuelItems;
 import net.cameron.cthulhumod.item.ModItems;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
@@ -36,6 +37,7 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerDoor(ModBlocks.RUBY_DOOR);
         blockStateModelGenerator.registerTrapdoor(ModBlocks.RUBY_TRAPDOOR);
 
+        blockStateModelGenerator.registerCrop(ModBlocks.TOMATO_CROP, TomatoCropBlock.AGE, 0, 1, 2, 3, 4, 5);
     }
 
     @Override
@@ -43,18 +45,15 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.RUBY, Models.GENERATED);
         itemModelGenerator.register(ModItems.RAW_RUBY, Models.GENERATED);
 
+        itemModelGenerator.register(ModFuelItems.COAL_CHUNK, Models.GENERATED);
         itemModelGenerator.register(ModItems.TOMATO, Models.GENERATED);
-
         itemModelGenerator.register(ModItems.METAL_DETECTOR, Models.GENERATED);
 
-        itemModelGenerator.register(ModFuelItems.COAL_CHUNK, Models.GENERATED);
-
         itemModelGenerator.register(ModItems.RUBY_PICKAXE, Models.HANDHELD);
-        itemModelGenerator.register(ModItems.RUBY_HOE, Models.HANDHELD);
-        itemModelGenerator.register(ModItems.RUBY_SWORD, Models.HANDHELD);
         itemModelGenerator.register(ModItems.RUBY_AXE, Models.HANDHELD);
         itemModelGenerator.register(ModItems.RUBY_SHOVEL, Models.HANDHELD);
-
+        itemModelGenerator.register(ModItems.RUBY_SWORD, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.RUBY_HOE, Models.HANDHELD);
 
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.RUBY_HELMET));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.RUBY_CHESTPLATE));

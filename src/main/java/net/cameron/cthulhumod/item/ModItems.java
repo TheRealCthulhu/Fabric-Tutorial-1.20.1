@@ -1,6 +1,7 @@
 package net.cameron.cthulhumod.item;
 
 import net.cameron.cthulhumod.CthulhuMod;
+import net.cameron.cthulhumod.block.ModBlocks;
 import net.cameron.cthulhumod.item.custom.MetalDetectorItem;
 import net.cameron.cthulhumod.item.custom.ModArmorItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
@@ -46,6 +47,10 @@ public class ModItems {
 
     //Food Items
     public static final Item TOMATO = registerItem("tomato", new Item(new FabricItemSettings().food(ModFoodComponents.TOMATO)));
+
+    //Seed Items
+    public static final Item TOMATO_SEEDS = registerItem("tomato_seeds",
+            new AliasedBlockItem(ModBlocks.TOMATO_CROP, new FabricItemSettings()));
 
 
 

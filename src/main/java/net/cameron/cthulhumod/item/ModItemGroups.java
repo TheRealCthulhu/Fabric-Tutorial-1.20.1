@@ -22,6 +22,9 @@ public class ModItemGroups {
                         //Foods
                         entries.add(ModItems.TOMATO);
 
+                        //Crops
+                        entries.add(ModItems.TOMATO_SEEDS);
+
                         //Misc Tools
                         entries.add(ModItems.METAL_DETECTOR);
                         entries.add(ModItems.RUBY_STAFF);

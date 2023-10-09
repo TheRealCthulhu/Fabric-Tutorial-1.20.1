@@ -1,8 +1,8 @@
 package net.cameron.cthulhumod;
 
-import net.cameron.cthulhumod.datagen.*;
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
+import net.cameron.cthulhumod.datagen.*;
 
 public class CthulhuModDataGenerator implements DataGeneratorEntrypoint {
 	@Override

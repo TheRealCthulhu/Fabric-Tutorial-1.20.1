@@ -2,8 +2,8 @@
 	"schemaVersion": 1,
 	"id": "cthulhumod",
 	"version": "${version}",
-	"name": "Tutorial Mod",
-	"description": "This is a tutorial mod from Kaupenjoe's tutorials",
+	"name": "Cthulhu's Mod",
+	"description": "This is a work in progress mod from Kaupenjoe's tutorials",
 	"authors": [
 		"Cam!"
 	],
